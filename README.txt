@@ -1,19 +1,5 @@
 # Assignment 1
 
-## Preliminaries
-
-This assignment must be done alone. You may discuss questions and
-potential solutions with your classmates, but you may not look at
-their code or their solutions. If in doubt, ask the instructor.
-
-We assume you will use the CSUG machines. You can use other machines,
-but we will assume your assignment runs correctly on the CSUG
-machines. Always test on the CSUG machines before submitting.
-
-This assignment has two major parts: Parity and Multibyte. You should
-attempt Parity first. Instructions for each assignment are in the
-comments of the files `parity/parity.c` and `mbstr/mbstr.c`.
-
 ## Unpacking this assignment
 
 The command to unpack a zip file on Linux, is:
